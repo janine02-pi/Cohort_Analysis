@@ -31,11 +31,6 @@ The analysis uses **4 main data files**:
 
 ### Requirement 3: Sustainable Profitability by Annual Income
 - Analyze which customer group by **Annual Income** level delivers the most **sustainable profit**.
-- Evaluation criteria include:
-  - Long-term retention (3–6–9–11 months)
-  - Average profit per customer
-  - Purchase frequency
-  - Income trend stability (slope analysis)
 
 ---
 
@@ -74,5 +69,3 @@ Cohort-Analysis/
 │   ├── Customer.csv
 │   ├── Product.csv
 │   └── Region.csv
-├── visualizations/                       # Saved charts and heatmaps (optional)
-└── requirements.txt                      
